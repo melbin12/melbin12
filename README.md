@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Melbin M P</h1>
 <p align="right"><h3 align="center">React developer</h3>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
+<img  align= "right" alt "coding" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melbin12&label=Profile%20views&color=0e75b6&style=flat" alt="melbin12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melbin12" alt="melbin12" /></a> </p>
